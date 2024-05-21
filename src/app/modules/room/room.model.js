@@ -28,7 +28,7 @@ const roomSchema = new Schema(
       type: String,
       required: true,
     },
-    catgory: {
+    category: {
       type: String,
       required: true,
     },
